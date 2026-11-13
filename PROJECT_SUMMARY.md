@@ -1,5 +1,4 @@
 # PR Review Agent - Project Summary
-
 ## CodeMate Hackathon - Problem 2 Solution
 
 This project implements an AI-powered agent capable of reviewing pull requests across multiple git servers (GitHub, GitLab, Bitbucket) and providing constructive feedback for improvements.
