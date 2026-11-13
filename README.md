@@ -1,5 +1,4 @@
 # PR Review Agent
-
 An AI-powered agent capable of reviewing pull requests across multiple git servers (GitHub, GitLab, Bitbucket). The agent analyzes code changes and provides constructive feedback for improvements.
 
 ![PR Review Agent](docs/images/pr_review_agent_banner.png)
